@@ -1,0 +1,74 @@
+# Yahoo Bookmark is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+
+# Yahoo Bookmark is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY# without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+
+# You should have received a copy of the GNU General Public License
+# along with Yahoo Bookmark. If not, see <http://www.gnu.org/licenses/>.
+
+# Original Author: Síragon I&D <desarrollo03@siragon.com.ve>
+
+# Developers: <Please add your email here>
+# Contributors: <Please add your email here>
+# Translators: <Please add your email here>
+
+############################################################################
+
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Custom for Visual Studio
+*.cs     diff=csharp
+*.sln    merge=union
+*.csproj merge=union
+*.vbproj merge=union
+*.fsproj merge=union
+*.dbproj merge=union
+
+# Standard to msysgit
+*.doc	 diff=astextplain
+*.DOC	 diff=astextplain
+*.docx diff=astextplain
+*.DOCX diff=astextplain
+*.dot  diff=astextplain
+*.DOT  diff=astextplain
+*.pdf  diff=astextplain
+*.PDF	 diff=astextplain
+*.rtf	 diff=astextplain
+*.RTF	 diff=astextplain
+
+#
+*.java text=lf
+*.xml text=lf
+*.pom text=auto
+*.wsdl text=auto
+*.WSDL text=auto
+*.xsd text=auto
+*.xsl text=auto
+*.XSL text=auto
+*.txt text=auto
+*.pom text=auto
+*.css text=auto
+*.htm text=auto
+*.html text=auto
+*.css text=auto
+*.sh eol=lf
+*.bat eol=crlf
+*.cmd eol=crlf
+*.bmp -text
+*.doc -text
+*.jpg -text
+*.gif -text
+*.png -text
+*.class -text
+*.zip -text
+*.jar -text
+*.war -text
+.classpath text=auto
+.project text=auto
+
