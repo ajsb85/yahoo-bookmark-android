@@ -18,17 +18,11 @@
 	Developers: <Please add your email here>
 	Contributors: <Please add your email here>
 	Translators: <Please add your email here>
-
 -->
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     >
-<TextView
-    android:layout_width="fill_parent"
-    android:layout_height="wrap_content"
-    android:text="Yahoo"
-    />
 </LinearLayout>
 

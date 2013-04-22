@@ -18,7 +18,6 @@
 	Developers: <Please add your email here>
 	Contributors: <Please add your email here>
 	Translators: <Please add your email here>
-
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
       package="com.yahoo.bookmark"
@@ -34,6 +33,6 @@
             </intent-filter>
         </activity>
     </application>
-    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="15" />
+    <uses-sdk android:minSdkVersion="3" android:targetSdkVersion="15" />
     <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
 </manifest>

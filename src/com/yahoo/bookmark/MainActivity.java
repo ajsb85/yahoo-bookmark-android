@@ -1,5 +1,4 @@
-/*
-	Yahoo Bookmark is free software: you can redistribute it and/or modify
+/* 	Yahoo Bookmark is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
 	the Free Software Foundation, either version 3 of the License, or
 	(at your option) any later version.
@@ -16,8 +15,7 @@
 
 	Developers: <Please add your email here>
 	Contributors: <Please add your email here>
-	Translators: <Please add your email here>
-*/
+	Translators: <Please add your email here> */
 
 package com.yahoo.bookmark;
 
