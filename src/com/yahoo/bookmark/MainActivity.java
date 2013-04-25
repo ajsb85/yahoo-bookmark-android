@@ -30,7 +30,7 @@ public class MainActivity extends Activity
     public void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
-		Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://es.yahoo.com?fr=appattach&type=233 "));
+		Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://es.yhs4.search.yahoo.com/yhs/mobile/web?&hspart=appattach&hsimp=yhsm-appattach&type=233"));
 		startActivity(browserIntent);
 		finish();
         System.exit(0);
